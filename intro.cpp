@@ -20,7 +20,7 @@ int main(){
     the starting point of execution for every C++ program.
     The opening curly brace { marks the beginning of the function's body.
     */
-    cout << "This is a c++ program" << endl;
+    cout << "This is a c++ rogram" << endl;
     cout << "This is a c++ program" << endl;
     cout << "Hello world" << endl;
     /*
